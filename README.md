@@ -1,5 +1,3 @@
-Overview
-
 Welcome to my Excel Projects portfolio.
 
 This repository documents my hands-on Excel projects as I build practical skills in data analytics. Each project focuses on solving real business problems using Microsoft Excel, from data cleaning and transformation to dashboard creation and decision analysis.
