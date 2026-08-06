@@ -10,15 +10,15 @@ Each project demonstrates business-focused Excel skills including dashboards, Po
 
 ## Projects
 
-### 📊 Day 01 – HR Dashboard
+### 📊 HR Dashboard
 
 Interactive HR dashboard featuring KPI cards, PivotTables, PivotCharts, slicers, and conditional formatting.
 
-### 🔄 Day 02 – Power Query Data Transformation
+### 🔄 Power Query Data Transformation
 
 Automated data cleaning and transformation using Merge, Append, and Custom Columns.
 
-### 📈 Day 03 – Excel What-If Analysis
+### 📈 Excel What-If Analysis
 
 Business modelling using Goal Seek, Scenario Manager, and One-Variable Data Tables.
 
