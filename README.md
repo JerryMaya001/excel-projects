@@ -1,61 +1,54 @@
-Welcome to my Excel Projects portfolio.
+# Excel Projects Portfolio
 
-This repository documents my hands-on Excel projects as I build practical skills in data analytics. Each project focuses on solving real business problems using Microsoft Excel, from data cleaning and transformation to dashboard creation and decision analysis.
+## Overview
 
-Projects
+This repository contains practical Microsoft Excel projects completed as part of my Data Analytics learning journey.
 
-📊 HR Dashboard
+Each project demonstrates business-focused Excel skills including dashboards, Power Query, reporting, and What-If Analysis.
 
-Built an interactive HR dashboard using PivotTables, PivotCharts, KPI cards, slicers, and conditional formatting to summarize workforce metrics.
+---
 
-Skills
+## Projects
 
-Dashboard Design,
-PivotTables,
-PivotCharts,
-Slicers,
-Conditional Formatting,
-Data Visualization
+### 📊 Day 01 – HR Dashboard
 
-🔄 Power Query Data Transformation
+Interactive HR dashboard featuring KPI cards, PivotTables, PivotCharts, slicers, and conditional formatting.
 
-Used Power Query to clean, merge, append, and transform datasets into analysis-ready data.
+### 🔄 Day 02 – Power Query Data Transformation
 
-Skills
+Automated data cleaning and transformation using Merge, Append, and Custom Columns.
 
-Power Query,
-Data Cleaning,
-Merge Queries,
-Append Queries,
-Custom Columns,
-Data Transformation
+### 📈 Day 03 – Excel What-If Analysis
 
-📈 Excel What-If Analysis
+Business modelling using Goal Seek, Scenario Manager, and One-Variable Data Tables.
 
-Explored Goal Seek, Scenario Manager, and One-Variable Data Tables to model salary increases and payroll planning.
+---
 
-Skills
+## Skills
 
-Goal Seek,
-Scenario Manager,
-One-Variable Data Table,
-Financial Modeling,
-HR Budgeting
+- Microsoft Excel
+- Power Query
+- Dashboard Design
+- PivotTables
+- PivotCharts
+- Conditional Formatting
+- Data Cleaning
+- Data Visualization
+- What-If Analysis
 
+---
 
-Tools
+## Next Projects
 
-Microsoft Excel,
-Power Query,
-PivotTables,
-Dashboard Design,
-Data Cleaning,
-Data Visualization,
-Learning Journey
+- SQL Basics
+- SQL Joins
+- Power BI Dashboard
+- Python for Data Analysis
 
-These projects are part of my journey toward becoming a Data Analyst. I'm documenting my progress while developing practical skills in Excel, SQL, Power BI, and Python.
+---
 
-Connect With Me
+## Author
 
-GitHub: https://github.com/JerryMaya001 &
-LinkedIn: https://www.linkedin.com/in/jeremiah-jacob-12b647220/
+**Jeremiah Jacob**
+
+GitHub: https://github.com/JerryMaya001
